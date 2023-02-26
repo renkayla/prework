@@ -4,7 +4,8 @@
 
     I wanted to build a study guide for prework to get into the habit of the GitFlow. 
     I found it very useful and prepared me for bootcamp. 
-    I learned how to add files like JavaScript and CSS and added useful and function code to those files.
+    I learned how to add files like JavaScript and CSS.
+    I added useful and function code to those files.
 
 
 ## Installation
